@@ -1,0 +1,10 @@
+{
+    "projectName": "EmbeddedChat",
+    "projectAbstract": "An easy-to-use, full-stack component (React.js + backend behaviors) for embedding Rocket.Chat into your web app.",
+    "benefits": [
+        "EmbeddedChat is a full-stack React component designed to integrate Rocket.Chat into your web app. ",
+        "It is fully configurable, extensible, and flexible, offering various preconfigured designs, multiple login options, and more.",
+        "The component is tightly integrated with the Rocket.Chat server using the Rocket.Chat SDK, and its entire UI is built using custom components.",
+        "For a comprehensive overview of Embedded Chat, including installation, usage, and advanced topics, visit Documentation page https://rocketchat.github.io/EmbeddedChat/docs."
+    ]
+}
