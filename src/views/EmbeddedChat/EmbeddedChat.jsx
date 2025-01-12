@@ -1,5 +1,5 @@
 import { EmbeddedChat } from "ec-test-react";
-import StormySeas from "../../theme/MintMeadow";
+import MintMeadow from "../../theme/MintMeadow";
 import styles from "./EmbeddedChat.module.css";
 
 const ECComponent = ({ isEcOpen, setIsECOpen }) => {
@@ -7,7 +7,7 @@ const ECComponent = ({ isEcOpen, setIsECOpen }) => {
     <div className={styles.ecContainer}>
       <EmbeddedChat
         anonymousMode
-        theme={StormySeas}
+        theme={MintMeadow}
         height="85vh"
         width="55vw"
         isClosable={true}
